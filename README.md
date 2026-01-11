@@ -36,6 +36,8 @@ python-problem-solving/
 ├── LICENSE
 └── README.md
 
+```
+
 ## How to run
 
 Clone the repository and navigate into it:
@@ -43,6 +45,7 @@ Clone the repository and navigate into it:
 ```bash
 git clone https://github.com/jose-escobar-dev/python-problem-solving.git
 cd python-problem-solving
+```
 
 ## Author
 
