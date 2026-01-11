@@ -11,7 +11,7 @@ It documents my progress as I learn to:
 - validate behavior with tests,
 - build a public record of consistent improvement.
 
-This is a **learning repository**, not a final portfolio project. I will host  **2–3 production-style portfolio projects** separately.
+This is a **learning repository**, not a final portfolio project. I will host  **production-style portfolio projects** separately.
 
 ## What you’ll find here
 
